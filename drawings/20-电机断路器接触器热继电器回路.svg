@@ -1,7 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="820" viewBox="0 0 1280 820"><rect width="1280" height="820" fill="white"/><g font-family="Arial,Microsoft YaHei,sans-serif" fill="#17334a"><text x="45" y="53" font-size="30" font-weight="bold">SMART-020 三相电机：QF + KM + FR动力与控制原理图</text><text x="45" y="86" font-size="17">SMART学习资料 | 原理示意 / 触点按未动作状态 | 不作为现场施工图</text></g><g stroke="#173b58" stroke-width="3" fill="none" stroke-linecap="round"><text x="60" y="155" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">动力回路（示意）</text><text x="110" y="186" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">L1</text><text x="240" y="186" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">L2</text><text x="370" y="186" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">L3</text>
-<path d="M120 200 L120 245"/><rect x="85" y="245" width="70" height="60"/><text x="97" y="280" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">QF</text><path d="M120 305 L120 355"/><path d="M120 350 L120 392"/><path d="M120 432 L120 474"/><path d="M105 427 L133 397"/><text x="144" y="412" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif"></text><path d="M120 474 L120 495"/><rect x="85" y="495" width="70" height="60"/><text x="97" y="530" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">FR</text><path d="M120 555 L120 618"/><path d="M250 200 L250 245"/><rect x="215" y="245" width="70" height="60"/><text x="227" y="280" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">QF</text><path d="M250 305 L250 355"/><path d="M250 350 L250 392"/><path d="M250 432 L250 474"/><path d="M235 427 L263 397"/><text x="274" y="412" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif"></text><path d="M250 474 L250 495"/><rect x="215" y="495" width="70" height="60"/><text x="227" y="530" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">FR</text><path d="M250 555 L250 618"/><path d="M380 200 L380 245"/><rect x="345" y="245" width="70" height="60"/><text x="357" y="280" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">QF</text><path d="M380 305 L380 355"/><path d="M380 350 L380 392"/><path d="M380 432 L380 474"/><path d="M365 427 L393 397"/><text x="404" y="412" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif"></text><path d="M380 474 L380 495"/><rect x="345" y="495" width="70" height="60"/><text x="357" y="530" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">FR</text><path d="M380 555 L380 618"/>
-<circle cx="250" cy="665" r="42"/><text x="235" y="674" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">M</text><path d="M120 618 L120 665"/><path d="M380 618 L380 665"/><text x="60" y="740" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">三相电机，PE接机壳</text>
-<text x="615" y="155" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">控制回路（24V DC示意）</text><path d="M635 220 L1160 220"/><text x="635" y="207" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">+24V</text><path d="M635 680 L1160 680"/><text x="635" y="714" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">0V</text>
-<path d="M760 246 L760 288"/><path d="M760 328 L760 370"/><path d="M745 323 L773 293"/><text x="784" y="308" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">S0 停止NC</text><path d="M760 220 L760 246"/><path d="M760 370 L760 385"/><path d="M760 385 L760 427"/><path d="M760 467 L760 509"/><path d="M745 462 L773 432"/><text x="784" y="447" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">FR 95-96 NC</text><path d="M760 509 L760 535"/><path d="M760 526 L760 568"/><path d="M760 608 L760 650"/><path d="M745 603 L773 573"/><text x="784" y="588" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">S1 启动NO</text><path d="M760 650 L760 660"/><rect x="905" y="610" width="110" height="60"/><text x="917" y="645" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">KM A1/A2</text><path d="M760 660 L905 660"/><path d="M1015 660 L1015 680"/>
-<text x="925" y="350" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">FR动作时95-96断开</text><text x="925" y="391" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">KM线圈失电</text><text x="925" y="431" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">主触点释放</text><text x="925" y="471" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">电机停止</text>
-<text x="615" y="750" stroke="none" fill="#17334a" font-size="20" font-family="Arial,Microsoft YaHei,sans-serif">简化控制图不含自锁；详见配套文字中的13-14并联保持支路。</text></g><text x="45" y="786" font-family="Arial,Microsoft YaHei,sans-serif" font-size="17" fill="#17334a">实际施工须核对产品端子图、保护协调、导线截面、PE接地与适用标准；未进行实机验证。</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="940" viewBox="0 0 1400 940">
+<rect width="1400" height="940" fill="#fff"/>
+<style>text{font-family:Arial,"Microsoft YaHei",sans-serif;fill:#193b52} .wire{stroke:#193b52;stroke-width:3;fill:none;stroke-linecap:square} .power{stroke:#ae5147;stroke-width:3;fill:none} .node{fill:#193b52} .head{font-size:28;font-weight:bold}.label{font-size:19}.small{font-size:16}</style>
+<text x="50" y="52" class="head">SMART-020 | QF1 + KM1 + FR1 三相电机起保停控制（含完整自锁支路）</text>
+<text x="50" y="83" class="small">24V DC控制电源示例；所有触点按断电、未按按钮、热继电器未跳闸状态绘制。教学原理图，非施工图。</text>
+<line x1="660" y1="122" x2="660" y2="815" stroke="#d1dce4" stroke-width="2"/>
+<text x="80" y="135" class="head">一、动力回路</text>
+<text x="750" y="135" class="head">二、控制回路：自锁 / 停止 / 过载跳闸</text>
+<g class="wire">
+<!-- Power: 3 distinct conductors and three poles -->
+<path d="M145 195 V260 M285 195 V260 M425 195 V260"/>
+<path d="M145 305 V385 M285 305 V385 M425 305 V385"/>
+<path d="M145 425 V505 M285 425 V505 M425 425 V505"/>
+<path d="M145 565 V670 M285 565 V670 M425 565 V670"/>
+<!-- QF poles -->
+<rect x="125" y="260" width="40" height="45"/><rect x="265" y="260" width="40" height="45"/><rect x="405" y="260" width="40" height="45"/>
+<!-- KM three open main contacts -->
+<path d="M145 385 V397 M145 416 V425 M131 414 L159 389 M285 385 V397 M285 416 V425 M271 414 L299 389 M425 385 V397 M425 416 V425 M411 414 L439 389"/>
+<!-- FR 3 heating elements -->
+<rect x="124" y="505" width="42" height="60"/><rect x="264" y="505" width="42" height="60"/><rect x="404" y="505" width="42" height="60"/>
+<path d="M145 505 V515 M145 555 V565 M285 505 V515 M285 555 V565 M425 505 V515 M425 555 V565"/>
+<!-- motor terminals and motor -->
+<circle cx="145" cy="677" r="6"/><circle cx="285" cy="677" r="6"/><circle cx="425" cy="677" r="6"/>
+<path d="M145 683 V704 H285 M425 683 V704 H285 M285 683 V704"/>
+<circle cx="285" cy="751" r="46"/><path d="M285 704 V705"/>
+<!-- Control supply rails and series stop and FR -->
+<path d="M790 210 H910 V252 M910 299 V342 M910 389 V455"/>
+<!-- parallel start and holding branch -->
+<path d="M910 455 H910 V482 M910 455 H1130 V482"/>
+<path d="M910 530 V590 H1020 M1130 530 V590 H1020"/>
+<!-- to coil and return -->
+<path d="M1020 590 V655"/>
+<rect x="982" y="655" width="76" height="64"/>
+<path d="M1020 719 V766 H910 V795 H790"/>
+<!-- NC stop S0 (bridged in rest) -->
+<path d="M910 252 V268 M910 285 V299 M895 268 L925 285 M896 261 L924 261"/>
+<!-- NC FR -->
+<path d="M910 342 V358 M910 375 V389 M895 358 L925 375 M896 351 L924 351"/>
+<!-- NO S1 -->
+<path d="M910 482 V494 M910 518 V530 M895 516 L925 495"/>
+<!-- NO KM1 hold -->
+<path d="M1130 482 V494 M1130 518 V530 M1115 516 L1145 495"/>
+</g>
+<g class="node"><circle cx="910" cy="455" r="5"/><circle cx="910" cy="590" r="5"/><circle cx="1130" cy="455" r="5"/><circle cx="1130" cy="590" r="5"/></g>
+<g class="label">
+<text x="132" y="180">L1</text><text x="272" y="180">L2</text><text x="412" y="180">L3</text>
+<text x="465" y="291">QF1 三极断路器</text><text x="465" y="415">KM1 主触点</text><text x="465" y="543">FR1 热元件</text>
+<text x="265" y="759">M1</text><text x="237" y="817">三相电动机</text>
+<text x="775" y="200">+24V</text><text x="765" y="802">0V</text>
+<text x="950" y="283">S0 停止 NC (11-12)</text><text x="950" y="375">FR1 NC (95-96)</text>
+<text x="816" y="511">S1 启动 NO</text><text x="1085" y="563">KM1 NO (13-14)</text>
+<text x="1067" y="691">KM1 线圈 A1/A2</text>
+</g>
+<g class="small">
+<text x="80" y="862">PE保护接地必须连接电机外壳；图中未展开PE、端子排、上级保护和线圈抑制。</text>
+<text x="750" y="852">自锁：按S1 → KM1得电 → 13-14闭合 → 松开S1仍保持。</text>
+<text x="750" y="882">按S0或FR1跳闸 → 95-96/停止回路断开 → KM1失电。</text>
+<text x="50" y="916">注：图为电气逻辑教学示意，器件型号、端子、过流保护配合及电机接线须按实际产品核验；未经实机测试。</text>
+</g></svg>
